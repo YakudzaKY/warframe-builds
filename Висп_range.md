@@ -111,6 +111,89 @@ Tauforged-версии используются как прямое улучше
 
 `Roar` усиливает оружие, способности и урон по статусам. В сборке через глефу это один из лучших баффов для DoT/статусной глефы, потому что фракционный урон дважды участвует в расчете DoT-статусов (Slash). Висп хочет двигаться, прыгать, ставить резервуары, прожимать `Breach Surge` и взрывать глефу, а не поддерживать луч `Sol Gate`.
 
+## ОРУЖИЕ
+
+### ОСНОВА
+
+## Paris Prime Incarnon
+
+**Эволюции:**
+* **Evolution II:** Deadly Pace
+* **Evolution III:** Swift Deliverance
+* **Evolution IV:** Striking Succession
+
+**Моды:**
+* Amalgam Serration
+* Split Chamber
+* Critical Delay
+* Vital Sense
+* Hunter Munitions
+* Primed Cryo Rounds
+* Malignant Force
+* Flex-слот
+
+**Варианты для Flex-слота:**
+* Bane-мод
+* Hammer Shot
+* Vigilante Armaments
+* Speed Trigger / Vile Acceleration
+
+**Exilus:** Vigilante Supplies или Terminal Velocity
+
+**Аркана:** Primary Dexterity или Longbow Sharpshot
+
+---
+
+## Felarx (Альтернатива)
+
+**Эволюции:**
+* **Evolution II:** Frictionless Flight
+* **Evolution III:** Evolved Autoloader
+* **Evolution IV:** Wracking Wrath
+* **Evolution V:** Devastating Attrition
+
+**Моды:**
+* Hell's Chamber
+* Primed Point Blank
+* Primed Charged Shell
+* Toxic Barrage / Contagious Spread
+* Primed Chilling Grasp
+* Blaze
+* Flex-слот
+
+**Варианты для Flex-слота:**
+* Shotgun Barrage
+* Primed Cleanse [Faction] (мод на фракцию)
+* Sweeping Serration (для усиления статуса разреза)
+* Toxic Barrage (если в основном билде стоит Contagious Spread, чтобы усилить вирус)
+
+**Элементы:** Corrosive + Cold (универсальный) или Viral + Electric/Heat
+
+**Exilus:** Galvanized Acceleration
+
+**Аркана:** Primary Dexterity (или Primary Merciless)
+
+**Важно:** НЕ ставить моды на шанс и урон крита (Critical Deceleration, Blunderbuss, Ravage, ривены на крит), так как Devastating Attrition прокает только от некритичных попаданий.
+
+
+### ВТОРИЧНОЕ
+
+`Epitaph Prime` здесь не спорит с `Phantasma Prime`, а дополняет его. Это быстрый локальный праймер на короткой и средней дистанции, который удобнее в тесных комнатах, на мелких целях и просто в тех окнах, где долгое зажатие луча `Phantasma Prime` избыточно.
+
+- Аркан: `Secondary Encumber` (`Вторичное Обременение`)
+- Эксилус: `Lethal Momentum` (`Летальный Момент`)
+- `Galvanized Diffusion` (`Гальванизированный Двойной Ствол`)
+- `Lethal Torrent` (`Смертоносный Ливень`)
+- `Primed Fulmination` (`Инициирование Прайм`)
+- `Anemic Agility` (`Анемичная Ловкость`)
+- `Frostbite` (`Обморожение`)
+- `Pistol Pestilence` (`Чумной Пистолет`)
+- `Jolt` (`Тряска`)
+- `Scorch` (`Напалм`)
+
+Незаряженный режим здесь приоритетнее. Он быстрее раздаёт статусы, лучше чувствует себя в плотной мили-дистанции и почти мгновенно подготавливает цель под вход талонами.
+
+
 ## Основное оружие: Glaive Prime
 
 `Glaive Prime` - сильнейший вариант метательного мили. Ценится за мощную ручную детонацию и гарантированный Slash proc на взрыве. Основной скейлинг здесь идет от тяжелой детонации, критов, `Power Throw` (`Могучий Бросок`), `Roar`, `Melee Elementalist` (`Элементалист: Ближний Бой`) и фракционного множителя.
